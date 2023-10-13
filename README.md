@@ -5,5 +5,8 @@ Chúng ta sẽ khám phá những vùng đất mới lạ , bắt đầu bằng 
 Đà Lạt còn là nơi để thưởng thức ẩm thực độc đáo và đa dạng.Có thể thử các món ăn đặc sản như bánh mì nướng, bánh căn.Khám phá chợ Đà Lạt để mua sắm những đặc sản địa phương và tạo nên những món quà lưu niệm thú vị.
 Dạo chơi trong các vườn hoa đa dạng với các loài hoa đẹp mắt, hòa mình vào thiên nhiên, tham gia các hoạt động ngoại trời như trekking,leo núi, hay thậm chí làm quen với đời sống và văn hóa của các dân tộc thiểu số xung quanh, Đà Lạt có mọi thứ để  tận hưởng một chuyến du lịch đáng nhớ.
 ![alt](https://nhatrang-tourist.com/image/catalog/untitled%20folder%201/%C4%90%C3%A0%20L%E1%BA%A1t/thung%20lung%205.jpg)
+
+<p>Hình ảnh bình minh tại Đà Lạt </p>
+p{
 text-align:center; 
-Hình ảnh bình minh tại Đà Lạt 
+}
